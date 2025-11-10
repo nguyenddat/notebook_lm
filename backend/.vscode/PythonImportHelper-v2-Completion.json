@@ -1,0 +1,1669 @@
+[
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordRequestForm",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "UserService",
+        "importPath": "service",
+        "description": "service",
+        "isExtraImport": true,
+        "detail": "service",
+        "documentation": {}
+    },
+    {
+        "label": "UserService",
+        "importPath": "service",
+        "description": "service",
+        "isExtraImport": true,
+        "detail": "service",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadService",
+        "importPath": "service",
+        "description": "service",
+        "isExtraImport": true,
+        "detail": "service",
+        "documentation": {}
+    },
+    {
+        "label": "MessageService",
+        "importPath": "service",
+        "description": "service",
+        "isExtraImport": true,
+        "detail": "service",
+        "documentation": {}
+    },
+    {
+        "label": "UserService",
+        "importPath": "service",
+        "description": "service",
+        "isExtraImport": true,
+        "detail": "service",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadService",
+        "importPath": "service",
+        "description": "service",
+        "isExtraImport": true,
+        "detail": "service",
+        "documentation": {}
+    },
+    {
+        "label": "FileService",
+        "importPath": "service",
+        "description": "service",
+        "isExtraImport": true,
+        "detail": "service",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegister",
+        "importPath": "schema",
+        "description": "schema",
+        "isExtraImport": true,
+        "detail": "schema",
+        "documentation": {}
+    },
+    {
+        "label": "MessageCreate",
+        "importPath": "schema",
+        "description": "schema",
+        "isExtraImport": true,
+        "detail": "schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogin",
+        "importPath": "schema",
+        "description": "schema",
+        "isExtraImport": true,
+        "detail": "schema",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegister",
+        "importPath": "schema",
+        "description": "schema",
+        "isExtraImport": true,
+        "detail": "schema",
+        "documentation": {}
+    },
+    {
+        "label": "TokenData",
+        "importPath": "schema",
+        "description": "schema",
+        "isExtraImport": true,
+        "detail": "schema",
+        "documentation": {}
+    },
+    {
+        "label": "MessageCreate",
+        "importPath": "schema",
+        "description": "schema",
+        "isExtraImport": true,
+        "detail": "schema",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "create_refresh_token",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_password_hash",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "generate_stream",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "RAG",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_file",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "StreamingResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "ChatOpenAI",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbeddings",
+        "importPath": "langchain_openai",
+        "description": "langchain_openai",
+        "isExtraImport": true,
+        "detail": "langchain_openai",
+        "documentation": {}
+    },
+    {
+        "label": "HuggingFaceEmbeddings",
+        "importPath": "langchain_huggingface",
+        "description": "langchain_huggingface",
+        "isExtraImport": true,
+        "detail": "langchain_huggingface",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigDict",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "embedding_model",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "as_declarative",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "declared_attr",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "BareBaseModel",
+        "importPath": "model.base",
+        "description": "model.base",
+        "isExtraImport": true,
+        "detail": "model.base",
+        "documentation": {}
+    },
+    {
+        "label": "BareBaseModel",
+        "importPath": "model.base",
+        "description": "model.base",
+        "isExtraImport": true,
+        "detail": "model.base",
+        "documentation": {}
+    },
+    {
+        "label": "BareBaseModel",
+        "importPath": "model.base",
+        "description": "model.base",
+        "isExtraImport": true,
+        "detail": "model.base",
+        "documentation": {}
+    },
+    {
+        "label": "BareBaseModel",
+        "importPath": "model.base",
+        "description": "model.base",
+        "isExtraImport": true,
+        "detail": "model.base",
+        "documentation": {}
+    },
+    {
+        "label": "Sender",
+        "importPath": "utils.utils_enum",
+        "description": "utils.utils_enum",
+        "isExtraImport": true,
+        "detail": "utils.utils_enum",
+        "documentation": {}
+    },
+    {
+        "label": "Sender",
+        "importPath": "utils.utils_enum",
+        "description": "utils.utils_enum",
+        "isExtraImport": true,
+        "detail": "utils.utils_enum",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "model.file",
+        "description": "model.file",
+        "isExtraImport": true,
+        "detail": "model.file",
+        "documentation": {}
+    },
+    {
+        "label": "PydanticOutputParser",
+        "importPath": "langchain_core.output_parsers",
+        "description": "langchain_core.output_parsers",
+        "isExtraImport": true,
+        "detail": "langchain_core.output_parsers",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "docx",
+        "description": "docx",
+        "isExtraImport": true,
+        "detail": "docx",
+        "documentation": {}
+    },
+    {
+        "label": "convert_from_path",
+        "importPath": "pdf2image",
+        "description": "pdf2image",
+        "isExtraImport": true,
+        "detail": "pdf2image",
+        "documentation": {}
+    },
+    {
+        "label": "image_to_string",
+        "importPath": "pytesseract",
+        "description": "pytesseract",
+        "isExtraImport": true,
+        "detail": "pytesseract",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Document",
+        "importPath": "langchain.schema",
+        "description": "langchain.schema",
+        "isExtraImport": true,
+        "detail": "langchain.schema",
+        "documentation": {}
+    },
+    {
+        "label": "PyPDFLoader",
+        "importPath": "langchain_community.document_loaders",
+        "description": "langchain_community.document_loaders",
+        "isExtraImport": true,
+        "detail": "langchain_community.document_loaders",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "FAISS",
+        "importPath": "langchain_community.vectorstores",
+        "description": "langchain_community.vectorstores",
+        "isExtraImport": true,
+        "detail": "langchain_community.vectorstores",
+        "documentation": {}
+    },
+    {
+        "label": "RecursiveCharacterTextSplitter",
+        "importPath": "langchain.text_splitter",
+        "description": "langchain.text_splitter",
+        "isExtraImport": true,
+        "detail": "langchain.text_splitter",
+        "documentation": {}
+    },
+    {
+        "label": "ChatPromptTemplate",
+        "importPath": "langchain.prompts",
+        "description": "langchain.prompts",
+        "isExtraImport": true,
+        "detail": "langchain.prompts",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "StaticFiles",
+        "importPath": "fastapi.staticfiles",
+        "description": "fastapi.staticfiles",
+        "isExtraImport": true,
+        "detail": "fastapi.staticfiles",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "starlette.middleware.cors",
+        "description": "starlette.middleware.cors",
+        "isExtraImport": true,
+        "detail": "starlette.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "auth_router",
+        "importPath": "api.v1",
+        "description": "api.v1",
+        "isExtraImport": true,
+        "detail": "api.v1",
+        "documentation": {}
+    },
+    {
+        "label": "thread_router",
+        "importPath": "api.v1",
+        "description": "api.v1",
+        "isExtraImport": true,
+        "detail": "api.v1",
+        "documentation": {}
+    },
+    {
+        "label": "message_router",
+        "importPath": "api.v1",
+        "description": "api.v1",
+        "isExtraImport": true,
+        "detail": "api.v1",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.v1.auth",
+        "description": "api.v1.auth",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/login\")\nasync def login(form_data: OAuth2PasswordRequestForm = Depends(), db: Session = Depends(get_db)):\n    \"\"\"Đăng nhập và lấy token\"\"\"\n    user = UserService.authenticate(form_data, db)\n    if not user:\n        raise HTTPException(\n            status_code=401,\n            detail=\"Invalid username or password\",\n            headers={\"WWW-Authenticate\": \"Bearer\"},",
+        "detail": "api.v1.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.v1.message",
+        "description": "api.v1.message",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/threads/{thread_id}/messages\")\nasync def create_message(\n    thread_id: int,\n    payload: MessageCreate,\n    db: Session = Depends(get_db),\n    current_user: User = Depends(UserService.get_current_user),\n):\n    try:\n        existed_thread = ThreadService.getThreadById(thread_id, current_user, db)",
+        "detail": "api.v1.message",
+        "documentation": {}
+    },
+    {
+        "label": "get_threads",
+        "kind": 2,
+        "importPath": "api.v1.thread",
+        "description": "api.v1.thread",
+        "peekOfCode": "def get_threads(\n    limit: int = 10,\n    offset: int = 0,\n    db: Session = Depends(get_db),\n    current_user: User = Depends(UserService.login_required)\n):\n    threads = ThreadService.getThreads(current_user, db, limit=limit, offset=offset)\n    return threads\n@router.post(\"/threads\")\nasync def create_thread(",
+        "detail": "api.v1.thread",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.v1.thread",
+        "description": "api.v1.thread",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/threads\")\ndef get_threads(\n    limit: int = 10,\n    offset: int = 0,\n    db: Session = Depends(get_db),\n    current_user: User = Depends(UserService.login_required)\n):\n    threads = ThreadService.getThreads(current_user, db, limit=limit, offset=offset)\n    return threads",
+        "detail": "api.v1.thread",
+        "documentation": {}
+    },
+    {
+        "label": "embedding_model",
+        "kind": 5,
+        "importPath": "config.models",
+        "description": "config.models",
+        "peekOfCode": "embedding_model = HuggingFaceEmbeddings(\n    model_name=\"AITeamVN/Vietnamese_Embedding_v2\",\n    model_kwargs={\"device\": \"cpu\", \"trust_remote_code\":True},\n    encode_kwargs={\"normalize_embeddings\": True},\n)\nllm = ChatOpenAI(model=\"gpt-4o-mini\", temperature=0)\nembeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")",
+        "detail": "config.models",
+        "documentation": {}
+    },
+    {
+        "label": "llm",
+        "kind": 5,
+        "importPath": "config.models",
+        "description": "config.models",
+        "peekOfCode": "llm = ChatOpenAI(model=\"gpt-4o-mini\", temperature=0)\nembeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")",
+        "detail": "config.models",
+        "documentation": {}
+    },
+    {
+        "label": "embeddings",
+        "kind": 5,
+        "importPath": "config.models",
+        "description": "config.models",
+        "peekOfCode": "embeddings = OpenAIEmbeddings(model=\"text-embedding-3-small\")",
+        "detail": "config.models",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "config.setting",
+        "description": "config.setting",
+        "peekOfCode": "class Config(BaseModel):\n    # Directory\n    base_dir: str = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n    @property\n    def artifact_dir(self) -> str:\n        artifact_dir = os.path.join(self.base_dir, \"artifacts\")\n        os.makedirs(artifact_dir, exist_ok=True)\n        return artifact_dir \n    # Database url\n    database_url: str = os.getenv(\"DB_URL\")",
+        "detail": "config.setting",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "config.setting",
+        "description": "config.setting",
+        "peekOfCode": "config = Config()",
+        "detail": "config.setting",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "db.init_db",
+        "description": "db.init_db",
+        "peekOfCode": "def get_db() -> Generator:\n    try:\n        db = SessionLocal()\n        yield db\n    finally:\n        db.close()",
+        "detail": "db.init_db",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "db.init_db",
+        "description": "db.init_db",
+        "peekOfCode": "engine = create_engine(config.database_url, pool_pre_ping=True)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase.metadata.create_all(bind=engine)\ndef get_db() -> Generator:\n    try:\n        db = SessionLocal()\n        yield db\n    finally:\n        db.close()",
+        "detail": "db.init_db",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "db.init_db",
+        "description": "db.init_db",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase.metadata.create_all(bind=engine)\ndef get_db() -> Generator:\n    try:\n        db = SessionLocal()\n        yield db\n    finally:\n        db.close()",
+        "detail": "db.init_db",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "model.base",
+        "description": "model.base",
+        "peekOfCode": "class Base:\n    __abstract__ = True\n    __name__: str\n    @declared_attr\n    def __tablename__(cls) -> str:\n        return cls.__name__.lower()\nclass BareBaseModel(Base):\n    __abstract__ = True\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    created_at = Column(String, default=datetime.now)",
+        "detail": "model.base",
+        "documentation": {}
+    },
+    {
+        "label": "BareBaseModel",
+        "kind": 6,
+        "importPath": "model.base",
+        "description": "model.base",
+        "peekOfCode": "class BareBaseModel(Base):\n    __abstract__ = True\n    id = Column(Integer, primary_key=True, autoincrement=True)\n    created_at = Column(String, default=datetime.now)\n    updated_at = Column(String, default=datetime.now)",
+        "detail": "model.base",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "kind": 6,
+        "importPath": "model.file",
+        "description": "model.file",
+        "peekOfCode": "class File(BareBaseModel):\n    name = Column(String, nullable=False)\n    path = Column(String, nullable=False)\n    thread_id = Column(Integer, ForeignKey(\"thread.id\"), nullable=False)\n    thread = relationship(\"Thread\", back_populates=\"file\")",
+        "detail": "model.file",
+        "documentation": {}
+    },
+    {
+        "label": "Message",
+        "kind": 6,
+        "importPath": "model.message",
+        "description": "model.message",
+        "peekOfCode": "class Message(BareBaseModel):\n    content = Column(String, nullable=False)\n    sender = Column(Enum(Sender, name=\"sender\"), nullable=False)\n    thread_id = Column(Integer, ForeignKey(\"thread.id\"), nullable=False)\n    thread = relationship(\"Thread\", back_populates=\"message\")",
+        "detail": "model.message",
+        "documentation": {}
+    },
+    {
+        "label": "Thread",
+        "kind": 6,
+        "importPath": "model.thread",
+        "description": "model.thread",
+        "peekOfCode": "class Thread(BareBaseModel):\n    title = Column(String)\n    user_id = Column(Integer, ForeignKey(\"user.id\"), nullable=False)\n    user = relationship(\"User\", back_populates=\"thread\")\n    message = relationship(\"Message\", back_populates=\"thread\")\n    file = relationship(\"File\", back_populates=\"thread\")",
+        "detail": "model.thread",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "model.user",
+        "description": "model.user",
+        "peekOfCode": "class User(BareBaseModel):\n    username = Column(String, nullable=False)\n    password = Column(String, nullable=False)\n    role = Column(String, nullable=False)\n    thread = relationship(\"Thread\", back_populates=\"user\")",
+        "detail": "model.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogin",
+        "kind": 6,
+        "importPath": "schema.sche_auth",
+        "description": "schema.sche_auth",
+        "peekOfCode": "class UserLogin(BaseModel):\n    username: str\n    password: str\nclass UserRegister(BaseModel):\n    username: str\n    password: str\n    role: str\nclass TokenData(BaseModel):\n    user_id: Optional[int] = None\nclass UserResponse(BaseModel):",
+        "detail": "schema.sche_auth",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegister",
+        "kind": 6,
+        "importPath": "schema.sche_auth",
+        "description": "schema.sche_auth",
+        "peekOfCode": "class UserRegister(BaseModel):\n    username: str\n    password: str\n    role: str\nclass TokenData(BaseModel):\n    user_id: Optional[int] = None\nclass UserResponse(BaseModel):\n    id: int\n    username: str\n    role: str",
+        "detail": "schema.sche_auth",
+        "documentation": {}
+    },
+    {
+        "label": "TokenData",
+        "kind": 6,
+        "importPath": "schema.sche_auth",
+        "description": "schema.sche_auth",
+        "peekOfCode": "class TokenData(BaseModel):\n    user_id: Optional[int] = None\nclass UserResponse(BaseModel):\n    id: int\n    username: str\n    role: str\n    class Config:\n        from_attributes = True\nclass TokenResponse(BaseModel):\n    access_token: str",
+        "detail": "schema.sche_auth",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "kind": 6,
+        "importPath": "schema.sche_auth",
+        "description": "schema.sche_auth",
+        "peekOfCode": "class UserResponse(BaseModel):\n    id: int\n    username: str\n    role: str\n    class Config:\n        from_attributes = True\nclass TokenResponse(BaseModel):\n    access_token: str\n    refresh_token: str\n    token_type: str",
+        "detail": "schema.sche_auth",
+        "documentation": {}
+    },
+    {
+        "label": "TokenResponse",
+        "kind": 6,
+        "importPath": "schema.sche_auth",
+        "description": "schema.sche_auth",
+        "peekOfCode": "class TokenResponse(BaseModel):\n    access_token: str\n    refresh_token: str\n    token_type: str",
+        "detail": "schema.sche_auth",
+        "documentation": {}
+    },
+    {
+        "label": "MessageCreate",
+        "kind": 6,
+        "importPath": "schema.sche_message",
+        "description": "schema.sche_message",
+        "peekOfCode": "class MessageCreate(BaseModel):\n    content: str",
+        "detail": "schema.sche_message",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadResponse",
+        "kind": 6,
+        "importPath": "schema.sche_thread",
+        "description": "schema.sche_thread",
+        "peekOfCode": "class ThreadResponse(BaseModel):\n    id: int\n    title: Optional[str]\n    created_at: str\n    updated_at: str\n    model_config = ConfigDict(from_attributes=True)\nclass FileResponse(BaseModel):\n    id: int\n    name: str\n    path: str",
+        "detail": "schema.sche_thread",
+        "documentation": {}
+    },
+    {
+        "label": "FileResponse",
+        "kind": 6,
+        "importPath": "schema.sche_thread",
+        "description": "schema.sche_thread",
+        "peekOfCode": "class FileResponse(BaseModel):\n    id: int\n    name: str\n    path: str\n    size: int\n    content_type: str\nclass CreateThreadResponse(BaseModel):\n    thread: ThreadResponse\n    success_files: List[FileResponse]\n    failed_files: List[dict]",
+        "detail": "schema.sche_thread",
+        "documentation": {}
+    },
+    {
+        "label": "CreateThreadResponse",
+        "kind": 6,
+        "importPath": "schema.sche_thread",
+        "description": "schema.sche_thread",
+        "peekOfCode": "class CreateThreadResponse(BaseModel):\n    thread: ThreadResponse\n    success_files: List[FileResponse]\n    failed_files: List[dict]\n    total_files: int",
+        "detail": "schema.sche_thread",
+        "documentation": {}
+    },
+    {
+        "label": "UserService",
+        "kind": 6,
+        "importPath": "service.srv_auth",
+        "description": "service.srv_auth",
+        "peekOfCode": "class UserService(object):\n    @staticmethod\n    def authenticate(user: OAuth2PasswordBearer, db: Session) -> Optional[User]:\n        \"\"\"\n        Check username and password is correct.\n        Return object User if correct, else return None\n        \"\"\"\n        existed_user = db.query(User).filter_by(username=user.username).first()\n        if (existed_user) and (verify_password(user.password, existed_user.password)):\n            return existed_user",
+        "detail": "service.srv_auth",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "service.srv_auth",
+        "description": "service.srv_auth",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"api/v1/auth/login\")\nclass UserService(object):\n    @staticmethod\n    def authenticate(user: OAuth2PasswordBearer, db: Session) -> Optional[User]:\n        \"\"\"\n        Check username and password is correct.\n        Return object User if correct, else return None\n        \"\"\"\n        existed_user = db.query(User).filter_by(username=user.username).first()\n        if (existed_user) and (verify_password(user.password, existed_user.password)):",
+        "detail": "service.srv_auth",
+        "documentation": {}
+    },
+    {
+        "label": "FileService",
+        "kind": 6,
+        "importPath": "service.srv_file",
+        "description": "service.srv_file",
+        "peekOfCode": "class FileService(object):\n    @staticmethod\n    def getLastIndex(db: Session) -> int:\n        return db.query(File).count()\n    @staticmethod\n    async def createFile(\n        thread_id: int,\n        file: UploadFile,\n        db: Session,\n    ):",
+        "detail": "service.srv_file",
+        "documentation": {}
+    },
+    {
+        "label": "MessageService",
+        "kind": 6,
+        "importPath": "service.srv_message",
+        "description": "service.srv_message",
+        "peekOfCode": "class MessageService:\n    @staticmethod\n    def createMessage(payload: MessageCreate, thread_id: int, db: Session):\n        content = payload.content\n        message = Message(content=content, sender=Sender.HUMAN, thread_id=thread_id)\n        db.add(message)\n        db.commit()\n        db.refresh(message)\n        return message\n    @staticmethod",
+        "detail": "service.srv_message",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadService",
+        "kind": 6,
+        "importPath": "service.srv_thread",
+        "description": "service.srv_thread",
+        "peekOfCode": "class ThreadService(object):\n    @staticmethod\n    def getThreadById(thread_id: int, user: User, db: Session) -> Thread | None:\n        existed_thread = db.query(Thread).filter(\n            Thread.id == thread_id, \n            Thread.user_id == user.id\n        ).first()\n        if existed_thread.user_id != user.id:\n            raise HTTPException(status_code=403, detail=\"You do not have permission to access this thread.\")\n        return existed_thread",
+        "detail": "service.srv_thread",
+        "documentation": {}
+    },
+    {
+        "label": "Citation",
+        "kind": 6,
+        "importPath": "utils.parsers.rag",
+        "description": "utils.parsers.rag",
+        "peekOfCode": "class Citation(BaseModel):\n    source_text: str = Field(..., description=\"Văn bản trích dẫn cụ thể từ tài liệu, được dùng để hỗ trợ câu trả lời.\")\n    page_number: int = Field(..., description=\"Vị trí số trang của nguồn trích dẫn trong file.\")\n    filename: str = Field(..., description=\"Tên file gốc của nguồn trích dẫn.\")\nclass RagResponse(BaseModel):\n    response: str = Field(..., description=\"Câu trả lời khoa học, khách quan cho câu hỏi người dùng. BẮT BUỘC phải chứa các trích dẫn trong ngoặc vuông theo phong cách IEEE (ví dụ: [1], [2]).\")\n    citations: List[Dict[str, Any]] = Field(..., description=\"Danh sách các nguồn tài liệu chi tiết được tham chiếu trong câu trả lời. Mỗi nguồn có định dạng như sau: {{source_text: str, page_number: int, filename: str}}.\")\nparser = PydanticOutputParser(pydantic_object=RagResponse)",
+        "detail": "utils.parsers.rag",
+        "documentation": {}
+    },
+    {
+        "label": "RagResponse",
+        "kind": 6,
+        "importPath": "utils.parsers.rag",
+        "description": "utils.parsers.rag",
+        "peekOfCode": "class RagResponse(BaseModel):\n    response: str = Field(..., description=\"Câu trả lời khoa học, khách quan cho câu hỏi người dùng. BẮT BUỘC phải chứa các trích dẫn trong ngoặc vuông theo phong cách IEEE (ví dụ: [1], [2]).\")\n    citations: List[Dict[str, Any]] = Field(..., description=\"Danh sách các nguồn tài liệu chi tiết được tham chiếu trong câu trả lời. Mỗi nguồn có định dạng như sau: {{source_text: str, page_number: int, filename: str}}.\")\nparser = PydanticOutputParser(pydantic_object=RagResponse)",
+        "detail": "utils.parsers.rag",
+        "documentation": {}
+    },
+    {
+        "label": "parser",
+        "kind": 5,
+        "importPath": "utils.parsers.rag",
+        "description": "utils.parsers.rag",
+        "peekOfCode": "parser = PydanticOutputParser(pydantic_object=RagResponse)",
+        "detail": "utils.parsers.rag",
+        "documentation": {}
+    },
+    {
+        "label": "prompt",
+        "kind": 5,
+        "importPath": "utils.prompts.rag",
+        "description": "utils.prompts.rag",
+        "peekOfCode": "prompt = \"\"\"Bạn là một **Trợ lý Nghiên cứu Thông minh và Khách quan** (Intelligent and Objective Research Assistant).\nNhiệm vụ chính của bạn là cung cấp câu trả lời **chính xác, khách quan** dựa **chặt chẽ** vào tài liệu đã được cung cấp.\nBạn sẽ nhận được:\n1. Câu hỏi nghiên cứu của người dùng\n2. Nội dung trích dẫn (context) từ tài liệu người dùng đã tải lên, bao gồm cả vị trí trang và tên file.\n**Yêu cầu Nhiệm vụ:**\n1.  **Trả lời dựa trên Tài liệu (Context-Bound):**\n    * Sử dụng **DUY NHẤT** thông tin từ **Nội dung trích dẫn** để trả lời câu hỏi.\n    * Câu trả lời phải được trình bày dưới dạng **văn phong khoa học, khách quan, và học thuật**.\n2.  **Yêu cầu Trích dẫn (Citations - IEEE Style):**",
+        "detail": "utils.prompts.rag",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "utils.utils_auth",
+        "description": "utils.utils_auth",
+        "peekOfCode": "def verify_password(plain_password: str, hashed_password: str) -> bool:\n    \"\"\"Kiểm tra mật khẩu\"\"\"\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password: str) -> str:\n    \"\"\"Mã hóa mật khẩu\"\"\"\n    return pwd_context.hash(password)\ndef create_access_token(subject: Union[str, Any], expires_delta: Optional[timedelta] = None) -> str:\n    \"\"\"Tạo access token JWT\"\"\"\n    if expires_delta:\n        expire = datetime.utcnow() + expires_delta",
+        "detail": "utils.utils_auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_password_hash",
+        "kind": 2,
+        "importPath": "utils.utils_auth",
+        "description": "utils.utils_auth",
+        "peekOfCode": "def get_password_hash(password: str) -> str:\n    \"\"\"Mã hóa mật khẩu\"\"\"\n    return pwd_context.hash(password)\ndef create_access_token(subject: Union[str, Any], expires_delta: Optional[timedelta] = None) -> str:\n    \"\"\"Tạo access token JWT\"\"\"\n    if expires_delta:\n        expire = datetime.utcnow() + expires_delta\n    else:\n        expire = datetime.utcnow() + timedelta(minutes=config.access_token_expire_minutes)\n    to_encode = {\"exp\": expire, \"sub\": str(subject)}",
+        "detail": "utils.utils_auth",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "utils.utils_auth",
+        "description": "utils.utils_auth",
+        "peekOfCode": "def create_access_token(subject: Union[str, Any], expires_delta: Optional[timedelta] = None) -> str:\n    \"\"\"Tạo access token JWT\"\"\"\n    if expires_delta:\n        expire = datetime.utcnow() + expires_delta\n    else:\n        expire = datetime.utcnow() + timedelta(minutes=config.access_token_expire_minutes)\n    to_encode = {\"exp\": expire, \"sub\": str(subject)}\n    encoded_jwt = jwt.encode(to_encode, config.secret_key, algorithm=config.security_algorithm)\n    return encoded_jwt\ndef create_refresh_token(subject: Union[str, Any]) -> str:",
+        "detail": "utils.utils_auth",
+        "documentation": {}
+    },
+    {
+        "label": "create_refresh_token",
+        "kind": 2,
+        "importPath": "utils.utils_auth",
+        "description": "utils.utils_auth",
+        "peekOfCode": "def create_refresh_token(subject: Union[str, Any]) -> str:\n    \"\"\"Tạo refresh token JWT\"\"\"\n    expire = datetime.utcnow() + timedelta(days=config.refresh_token_expire_days)\n    to_encode = {\"exp\": expire, \"sub\": str(subject)}\n    encoded_jwt = jwt.encode(to_encode, config.secret_key, algorithm=config.security_algorithm)\n    return encoded_jwt",
+        "detail": "utils.utils_auth",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "utils.utils_auth",
+        "description": "utils.utils_auth",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\ndef verify_password(plain_password: str, hashed_password: str) -> bool:\n    \"\"\"Kiểm tra mật khẩu\"\"\"\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password: str) -> str:\n    \"\"\"Mã hóa mật khẩu\"\"\"\n    return pwd_context.hash(password)\ndef create_access_token(subject: Union[str, Any], expires_delta: Optional[timedelta] = None) -> str:\n    \"\"\"Tạo access token JWT\"\"\"\n    if expires_delta:",
+        "detail": "utils.utils_auth",
+        "documentation": {}
+    },
+    {
+        "label": "Sender",
+        "kind": 6,
+        "importPath": "utils.utils_enum",
+        "description": "utils.utils_enum",
+        "peekOfCode": "class Sender(Enum):\n    HUMAN = \"human\"\n    AI = \"ai\"",
+        "detail": "utils.utils_enum",
+        "documentation": {}
+    },
+    {
+        "label": "load_file",
+        "kind": 2,
+        "importPath": "utils.utils_file",
+        "description": "utils.utils_file",
+        "peekOfCode": "def load_file(file_path: str) -> List[Document]:\n    extension = os.path.splitext(file_path)[1].lower()\n    if extension.lower() in [\".txt\", \".md\"]:\n        with open(file_path, \"r\", encoding=\"utf-8\") as f:\n            text = f.read()\n        return [Document(page_content=text, metadata={\"page\": 1})]\n    elif extension in [\".doc\", \".docx\"]:\n        doc = DocxDocument(file_path)\n        text = \"\\n\".join([para.text for para in doc.paragraphs if para.text.strip()])\n        return [Document(page_content=text, metadata={\"page\": 1})]",
+        "detail": "utils.utils_file",
+        "documentation": {}
+    },
+    {
+        "label": "generate_stream",
+        "kind": 2,
+        "importPath": "utils.utils_message",
+        "description": "utils.utils_message",
+        "peekOfCode": "def generate_stream(gen):\n    try:\n        chunk_count = 0\n        final_resp = \"\"\n        citations = []\n        for chunk in gen:\n            chunk_count += 1\n            if isinstance(chunk, dict):\n                final_resp = chunk.get(\"response\", \"\")\n                citations = chunk.get(\"citations\", [])",
+        "detail": "utils.utils_message",
+        "documentation": {}
+    },
+    {
+        "label": "RAG",
+        "kind": 6,
+        "importPath": "utils.utils_rag",
+        "description": "utils.utils_rag",
+        "peekOfCode": "class RAG:\n    def __init__(self, thread: Thread):\n        self.save_local = os.path.join(config.artifact_dir, str(thread.id))\n        self.thread = thread\n        self.text_splitter = RecursiveCharacterTextSplitter(\n            chunk_size=1000,\n            chunk_overlap=200\n        )\n        self.vector_store = None\n    def load_data(self, db):",
+        "detail": "utils.utils_rag",
+        "documentation": {}
+    },
+    {
+        "label": "getApplication",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def getApplication() -> FastAPI:\n    app = FastAPI()\n    app.add_middleware(\n        CORSMiddleware,\n        allow_origins=[\"*\"],\n        allow_credentials=True,\n        allow_methods=[\"*\"],\n        allow_headers=[\"*\"],\n    )\n    \"\"\"Register API routers.\"\"\"",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = getApplication()",
+        "detail": "main",
+        "documentation": {}
+    }
+]

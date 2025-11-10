@@ -1,0 +1,42 @@
+services:
+  db:
+    container_name: lm_db
+    image: postgres
+    volumes:
+      - ./database/data:/var/lib/postgresql/data
+    env_file:
+      - ./database/.env
+    ports:
+      - "8001:5432"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "postgres"]
+      interval: 5s
+      timeout: 5s
+      retries: 2
+    networks:
+      - fast_api
+
+
+  # backend:
+  #   container_name: lm_backend
+  #   build:
+  #     context: ./backend
+  #   env_file:
+  #     - ./backend/.env
+  #   volumes:
+  #     - ./backend:/backend
+  #     - ./backend/requirements.txt:/backend/requirements.txt
+  #   ports:
+  #     - "8000:8000"
+  #   restart: always
+  #   command: "uvicorn main:app --host 0.0.0.0 --port 8000 --reload"
+  #   depends_on:
+  #     db:
+  #       condition: service_healthy
+  #   networks:
+  #     - fast_api
+  
+networks:
+  fast_api:
+    driver: bridge

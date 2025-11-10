@@ -4,7 +4,7 @@ from typing import List
 from docx import Document as DocxDocument
 from pdf2image import convert_from_path
 from pytesseract import image_to_string
-from langchain.schema import Document
+from langchain_core.documents import Document
 from langchain_community.document_loaders import PyPDFLoader
 
 def load_file(file_path: str) -> List[Document]:

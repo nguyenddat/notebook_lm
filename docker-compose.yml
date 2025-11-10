@@ -3,7 +3,7 @@ services:
     container_name: lm_db
     image: postgres
     volumes:
-      - ./database/data:/var/lib/postgresql/data
+      - ./database/data:/var/lib/postgresql
     env_file:
       - ./database/.env
     ports:
